@@ -191,7 +191,7 @@ Ci-dessous, vous pouvez voir un graphique montrant la précision d'entraînement
 
 Voici quelques captures d'écran de Vegetal ML en action :
 
-![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/13b875d8-64d5-416c-9bfe-be705ec6da87)
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/270e0d49-6520-457c-b1ef-b576679b21ed)
 
 ![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/768f099f-d7ad-4f97-9bed-e5f30e93ec1c)
 
