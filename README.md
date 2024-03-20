@@ -16,8 +16,9 @@ Caractéristiques
 * 99 % de précision sur l'ensemble d'entraînement.
 * 98 % de précision sur l'ensemble de validation.
 * 86 % de précision sur l'ensemble de test.
-* Entraîné en 25 itérations sur un iMac 2015 2,8 GHz Quad-Core.
+* Entraîné en 25 itérations sur un iMac 2015 2,8 GHz Quad-Core. 
 * Entraîné sur un total de 85 940 images et testé sur 22 688 images.
+* Durée de l'entraînement : 24h
 
 Ensemble de données
 ------------
