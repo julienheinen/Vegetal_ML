@@ -186,13 +186,20 @@ Apple Braeburn
 Captures d'écran
 ------------
 
+Ci-dessous, vous pouvez voir un graphique montrant la précision d'entraînement et de validation de notre modèle Core ML au fil des itérations. 
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/c98d1d3a-15f8-49fb-944c-bad7a7830da7)
+
 Voici quelques captures d'écran de Vegetal ML en action :
 
-![Capture d'écran 1](capture1.png)
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/13b875d8-64d5-416c-9bfe-be705ec6da87)
 
-![Capture d'écran 2](capture2.png)
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/768f099f-d7ad-4f97-9bed-e5f30e93ec1c)
 
-![Capture d'écran 3](capture3.png)
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/e85dea2d-9316-43b9-a247-da1d482494ed)
+
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/22309ada-1b94-4aa6-a815-ab9567a7fdda)
+
+![image](https://github.com/julienheinen/Vegetal_ML/assets/63350542/55069a18-6a0f-4da6-8bc0-058e06027e8a)
 
 Utilisation
 -----------
